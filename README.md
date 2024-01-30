@@ -2,7 +2,7 @@
 This a solution for the Kaggle Challenge https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia.
 This short project delivers a Spark-based solution using BigDL for image classification.
 
-## Authors:
+## Authors
 
 Nicolás Cárdenas Roig
 
